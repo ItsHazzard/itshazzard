@@ -1,9 +1,5 @@
 # Hello there!
-I'm Golden, and I make stuff in my free time! I am self taught in NodeJS, Java, Python, and more! I most often work with the Discord.js API and the Bukkit API to create both discord integrations, and custom minecraft server plugins. Some of my works can be found here, however many are private. Check out more on my [website](https://goldenn.dev/). 
-
-## Support me
-<a href="https://www.buymeacoffee.com/goldenn15"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goldenn15&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a> [link](https://www.buymeacoffee.com/goldenn15) 
-
+I'm Harry, and I make stuff in my free time! I am self taught in NodeJS, Java, Python, and more! I most often work with the Discord.js API and the Bukkit API to create both discord integrations, and custom minecraft server plugins. Some of my works can be found here, however many are private. Check out more on my [website](https://goldenn.dev/). 
 
 ## Stats:
 
