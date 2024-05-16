@@ -3,7 +3,7 @@ I'm Harry, and I make stuff in my free time! I am self taught in NodeJS, Java, P
 
 ## Stats:
 
-[![Golden's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgolden15&hide=prs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgolden15&hide=prs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgolden15&langs_count=6&layout=compact&theme=github_dark&hide=css&exclude_repo=concrete-strength)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Lifetime Stats:
